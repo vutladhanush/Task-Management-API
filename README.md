@@ -146,16 +146,16 @@ All REST API endpoints can be tested using **Postman**.
 All REST API endpoints were tested using Postman.
 
 ### Create User
-![Create User](screenshots/create_user.png)
+![Create User](task-management/screenshots/create_user.png)
 
 ### Get All Users
-![Get All Users](screenshots/getAll_users.png)
+![Get All Users](task-management/screenshots/getAll_users.png)
 
 ### Create Task
-![Create Task](screenshots/create_task.png)
+![Create Task](task-management/screenshots/create_task.png)
 
 ### Get All Tasks
-![Get All Tasks](screenshots/getAll_tasks.png)
+![Get All Tasks](task-management/screenshots/getAll_tasks.png)
 
 ## Author
 
