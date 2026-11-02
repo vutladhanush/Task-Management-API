@@ -117,7 +117,7 @@ User (1) ─────────< (N) Task
 
 ```bash
 git clone https://github.com/vutladhanush/Task-Management-API.git
-cd task-management-api
+cd Task-Management-API
 ```
 
 ### 2. Create the database
